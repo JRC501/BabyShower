@@ -1,5 +1,4 @@
 body{
-    font-family: 'Noto Sans', sans-serif;
 
     margin: 0em;
     background-color: #9ADEF5;
@@ -8,6 +7,7 @@ body{
     background-size: 48px 48px;
     background-position: 0 0,24px 24px;
 }
+
 .navbar{
     background-image: url(../images/port.jpg);
     background-size: cover;
