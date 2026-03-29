@@ -50,5 +50,4 @@ Puedes ver la invitación web funcionando aquí:
 
 ---
 
-⭐ *Si te gustó este proyecto, ¡dale una estrella al repo!* ⭐  
 🍼 *Hecho con 💙 para celebrar una nueva vida* 🎈
