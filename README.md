@@ -2,7 +2,7 @@
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active-brightgreen)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 Proyecto desarrollado como práctica de desarrollo web para crear una página de invitación digital para un **Baby Shower**.
 
