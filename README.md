@@ -40,10 +40,10 @@ Puedes ver la invitación web funcionando aquí:
 - [ ] Integrar conteo regresivo con JavaScript
 
 ## 👨‍💻 Autor
-**Juan Reyes**
-💻 Ing. en Computación en formación
-🎨 Interés en desarrollo web y tecnología
-📍 CDMX 
+**Juan Reyes**  
+💻 Ing. en Computación en formación  
+🎨 Interés en desarrollo web y tecnología  
+📍 CDMX
 
 [![GitHub](https://img.shields.io/badge/GitHub-JRC501-181717?logo=github)](https://github.com/JRC501)
 [![Demo Baby Shower](https://img.shields.io/badge/🌐-Ver%20invitación-ffb6c1?style=flat-square)](https://jrc501.github.io/BabyShower/)
