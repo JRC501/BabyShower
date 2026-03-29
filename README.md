@@ -28,7 +28,7 @@ Puedes ver la invitación web funcionando aquí:
 
 ## 🚀 Vista previa
 <div align="center">
-  <img src="preview.png" alt="Vista previa de la invitación de Baby Shower" width="500">
+  <img src="images/preview.jpg" alt="Vista previa de la invitación de Baby Shower" width="500">
   <br>
   <em>Invitación digital para celebrar la llegada del bebé</em>
 </div>
